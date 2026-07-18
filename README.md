@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**chaithrad/chaithrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏆 Hackathon Projects
 
-Here are some ideas to get you started:
+Welcome to my Hackathon repository!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository contains projects developed as part of various hackathons, focusing on solving real-world engineering problems using Machine Learning, Deep Learning, MATLAB, and Python.
+
+## Repository Structure
+
+```
+Hackathon/
+│
+├── RF_Target_Position_Velocity/
+└── README.md
+```
+
+## Future Projects
+
+More hackathon projects will be added to this repository over time.
+
+---
+
+**Author**
+
+**Chaithra D**
