@@ -1,0 +1,11 @@
+[
+    {
+        "timestamp": "2026-11-17 23:35:03",
+        "doc_hash": "fea6971ca432",
+        "document": "contract_3_high_risk.txt",
+        "vendor_id": "VND-102",
+        "risk_rating": "High",
+        "risk_score": 85,
+        "decision": "HOLD_REDLINE_SENT"
+    }
+]

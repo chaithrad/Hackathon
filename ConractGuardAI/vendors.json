@@ -1,0 +1,14 @@
+{
+  "VND-101": {
+    "vendor_name": "CloudNova Analytics Pvt Ltd",
+    "tier": "Preferred Strategic Vendor",
+    "approved_budget_usd": 150000,
+    "past_disputes": 0
+  },
+  "VND-102": {
+    "vendor_name": "Apex Offshore Data Corp",
+    "tier": "New / Unverified Vendor",
+    "approved_budget_usd": 50000,
+    "past_disputes": 2
+  }
+}

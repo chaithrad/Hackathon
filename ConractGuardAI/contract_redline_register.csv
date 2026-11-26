@@ -1,0 +1,2 @@
+timestamp,doc_hash,document,vendor_id,risk_rating,risk_score,decision
+17-11-2026 23:35,fea6971ca432,contract_3_high_risk.txt,VND-102,High,85,HOLD_REDLINE_SENT
