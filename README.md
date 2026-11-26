@@ -11,7 +11,8 @@ This repository contains projects developed as part of various hackathons, focus
 ```
 Hackathon/
 │
-├── RF_Target_Position_Velocity/
+├── MotionDetection/
+├── ContractGuardAIy/
 └── README.md
 ```
 
