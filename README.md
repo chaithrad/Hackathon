@@ -12,7 +12,7 @@ This repository contains projects developed as part of various hackathons, focus
 Hackathon/
 │
 ├── MotionDetection/
-├── ContractGuardAIy/
+├── ContractGuardAI/
 └── README.md
 ```
 
