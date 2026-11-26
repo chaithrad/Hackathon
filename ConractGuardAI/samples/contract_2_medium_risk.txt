@@ -1,0 +1,4 @@
+MUTUAL NDA & SERVICE ADDENDUM - CloudNova Analytics Pvt Ltd (Vendor ID: VND-101)
+1. Confidentiality & AI Usage: Vendor may retain anonymized copies of Company data to improve and train Vendor's proprietary AI models. Breach notification will be sent within 15 business days.
+2. Term & Renewal: This Agreement shall automatically renew for successive 2-year periods unless cancelled at least 90 days prior to expiration.
+3. Governing Law: Governed by the laws of India, courts at Bengaluru, Karnataka.

@@ -1,0 +1,4 @@
+VENDOR MASTER AGREEMENT - Apex Offshore Data Corp (Vendor ID: VND-102)
+1. Limitation of Liability: Vendor's maximum aggregate liability under this Agreement is strictly capped at fees paid in the preceding one (1) month, whereas Company's indemnification liability is unlimited.
+2. Intellectual Property: Vendor shall retain full ownership and copyright of all custom software, workflows, and deliverables built during this engagement, granting Company only a revocable license.
+3. Governing Law: This Agreement shall be governed exclusively by the laws of the Cayman Islands, with binding arbitration in London.

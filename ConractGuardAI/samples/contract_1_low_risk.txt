@@ -1,0 +1,5 @@
+MASTER SERVICES AGREEMENT - CloudNova Analytics Pvt Ltd (Vendor ID: VND-101)
+1. Limitation of Liability: Each party's total liability shall not exceed twelve (12) months' fees paid or USD $120,000.
+2. Intellectual Property: All Deliverables created for Company shall be the exclusive property of Company.
+3. Governing Law: Governed by the laws of India, with exclusive jurisdiction in Bengaluru, Karnataka.
+4. Termination: Either party may terminate for convenience with 30 days' written notice.
